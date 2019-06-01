@@ -8,10 +8,10 @@
 		<version>2.1.5.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.efrota.recruitmentprocess</groupId>
-	<artifactId>recruitment-process</artifactId>
+	<groupId>com.efrota.recruitingprocess</groupId>
+	<artifactId>recruiting-process</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>recruitment-process</name>
+	<name>recruiting-process</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
